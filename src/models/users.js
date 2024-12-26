@@ -29,3 +29,7 @@ const update = (id, updatedUser) => {
         ...updatedUser
     }
 }
+
+const deleteU = () => {
+
+}
